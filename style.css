@@ -1,0 +1,25 @@
+#image{
+    max-width: 500px;
+    display: block;
+    margin: auto;
+}
+
+#main {
+    background: LightGray;
+    text-align: center;
+
+  }
+  #title{
+      background-color: bisque;
+      color: brown;
+  }
+  #img-div{
+      background-color: beige;
+  }
+  #img-caption{
+      background-color: blanchedalmond;
+  }
+  #tribute-info{
+      background-color: lightslategray;
+      color: antiquewhite;
+  }
